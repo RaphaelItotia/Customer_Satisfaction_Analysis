@@ -1,0 +1,201 @@
+Customer_ID,Customer_Age,Gender,Income_Level,Frequency_of_Purchase,Product/Service_Purchased,Satisfaction_Before,Satisfaction_After,Customer_Feedback_Before,Customer_Feedback_After,Employee_Interaction_Rating,Region,Customer_Loyalty
+1,56,Male,High,1,Product B,2,10,Dissatisfied,Very satisfied,9,Central,Yes
+2,46,Female,Low,10,Service A,10,8,Will recommend,Excellent service,9,Central,No
+3,32,Male,Low,8,Product A,6,6,Quick service,Average experience,5,Western,No
+4,60,Female,Medium,10,Service A,3,6,Needs improvement,Quick service,10,Eastern,No
+5,25,Male,Low,10,Product A,3,8,Slow response,Very satisfied,4,Rift Valley,Yes
+6,38,Female,Medium,10,Product A,9,7,Very satisfied,Quick service,6,Rift Valley,Yes
+7,56,Female,Low,2,Product A,7,10,Quick service,Excellent service,7,Western,Yes
+8,36,Female,Medium,3,Product B,5,10,Quick service,Excellent service,5,Central,Yes
+9,40,Female,High,9,Product B,10,8,Very satisfied,Will recommend,10,Nairobi,Yes
+10,28,Male,Low,7,Service A,7,2,Quick service,Not happy with the service,9,Western,No
+11,28,Female,Low,4,Product A,9,9,Excellent service,Excellent service,3,Western,No
+12,41,Male,Low,10,Product A,1,1,Dissatisfied,Needs improvement,7,Eastern,Yes
+13,53,Male,Low,5,Product B,7,8,Average experience,Excellent service,10,Rift Valley,Yes
+14,57,Male,Medium,2,Product A,6,4,Average experience,Not happy with the service,10,Western,Yes
+15,41,Male,Low,8,Product B,10,4,Excellent service,Not happy with the service,5,Western,Yes
+16,20,Female,High,4,Product A,9,5,Excellent service,Average experience,7,Central,No
+17,39,Male,High,9,Service A,1,8,Slow response,Very satisfied,2,Central,Yes
+18,19,Male,Low,5,Product A,4,5,Not happy with the service,Quick service,4,Nairobi,Yes
+19,41,Male,High,9,Product A,9,8,Very satisfied,Will recommend,2,Eastern,Yes
+20,61,Female,Low,4,Service B,4,10,Needs improvement,Will recommend,7,Nairobi,Yes
+21,47,Female,Low,10,Product B,10,1,Excellent service,Not happy with the service,2,Central,No
+22,55,Female,High,5,Product A,3,10,Dissatisfied,Excellent service,1,Rift Valley,Yes
+23,19,Female,Low,9,Product A,9,9,Will recommend,Very satisfied,9,Central,Yes
+24,38,Male,High,8,Service B,2,6,Dissatisfied,Quick service,1,Eastern,No
+25,50,Male,Medium,3,Service B,4,3,Not happy with the service,Dissatisfied,8,Central,No
+26,29,Female,Low,1,Product B,6,8,Quick service,Very satisfied,2,Eastern,No
+27,39,Male,Medium,3,Service B,2,9,Not happy with the service,Excellent service,8,Eastern,Yes
+28,61,Male,High,4,Service A,8,6,Excellent service,Average experience,3,Eastern,Yes
+29,42,Male,Medium,2,Service B,8,7,Very satisfied,Quick service,6,Eastern,No
+30,44,Female,Medium,1,Service A,1,1,Dissatisfied,Dissatisfied,3,Eastern,No
+31,59,Female,High,7,Product B,3,5,Dissatisfied,Quick service,7,Rift Valley,No
+32,45,Male,Medium,8,Product B,10,5,Will recommend,Quick service,10,Nairobi,No
+33,33,Female,Medium,7,Product B,9,10,Excellent service,Will recommend,9,Western,No
+34,32,Female,High,5,Product B,5,4,Average experience,Dissatisfied,2,Nairobi,No
+35,64,Female,Medium,1,Product B,6,6,Average experience,Quick service,5,Eastern,Yes
+36,61,Female,High,7,Service A,4,7,Needs improvement,Quick service,6,Rift Valley,Yes
+37,20,Female,Medium,7,Service A,10,9,Very satisfied,Very satisfied,4,Central,Yes
+38,54,Male,High,9,Product B,2,1,Slow response,Not happy with the service,4,Rift Valley,No
+39,24,Female,High,3,Service B,8,6,Excellent service,Average experience,4,Eastern,No
+40,38,Male,Medium,9,Product A,6,7,Quick service,Quick service,2,Rift Valley,No
+41,26,Male,Medium,1,Product B,5,3,Quick service,Dissatisfied,4,Rift Valley,No
+42,56,Female,Medium,1,Service B,9,8,Excellent service,Very satisfied,1,Eastern,No
+43,35,Male,Low,4,Product A,1,5,Slow response,Quick service,6,Rift Valley,No
+44,21,Male,Low,9,Product B,5,9,Quick service,Very satisfied,1,Western,Yes
+45,42,Male,Low,6,Product B,6,5,Average experience,Average experience,10,Western,Yes
+46,31,Female,High,3,Service A,5,9,Average experience,Very satisfied,6,Rift Valley,No
+47,26,Female,Medium,1,Product A,6,10,Average experience,Excellent service,1,Central,Yes
+48,43,Male,High,4,Product A,6,4,Average experience,Slow response,6,Eastern,No
+49,19,Female,Low,9,Service B,7,9,Quick service,Excellent service,10,Western,Yes
+50,37,Female,Medium,3,Service A,4,5,Not happy with the service,Quick service,8,Central,No
+51,45,Female,High,9,Service A,8,10,Excellent service,Excellent service,2,Rift Valley,No
+52,64,Female,Medium,7,Service A,7,9,Average experience,Excellent service,2,Central,Yes
+53,24,Male,High,4,Service A,9,3,Very satisfied,Dissatisfied,4,Nairobi,Yes
+54,61,Male,Medium,3,Product A,7,4,Average experience,Dissatisfied,3,Western,No
+55,25,Female,Low,10,Product A,3,9,Slow response,Very satisfied,4,Rift Valley,No
+56,64,Female,Low,5,Product B,3,10,Not happy with the service,Very satisfied,7,Eastern,Yes
+57,52,Male,Medium,5,Product B,8,6,Very satisfied,Quick service,1,Rift Valley,Yes
+58,31,Male,High,3,Service A,5,2,Average experience,Not happy with the service,6,Eastern,No
+59,34,Female,Low,9,Service A,4,7,Not happy with the service,Average experience,3,Rift Valley,Yes
+60,53,Male,Low,4,Service A,8,2,Will recommend,Not happy with the service,10,Central,No
+61,57,Female,Low,5,Product B,6,2,Quick service,Dissatisfied,7,Central,No
+62,21,Female,Medium,4,Service B,2,1,Needs improvement,Dissatisfied,10,Central,No
+63,19,Male,Medium,5,Service B,4,3,Not happy with the service,Slow response,2,Nairobi,No
+64,23,Male,High,7,Product B,4,6,Not happy with the service,Quick service,2,Eastern,Yes
+65,59,Female,High,9,Product B,6,8,Quick service,Will recommend,4,Central,Yes
+66,21,Female,High,7,Product B,6,9,Quick service,Excellent service,1,Nairobi,Yes
+67,46,Male,Medium,5,Product B,1,7,Needs improvement,Average experience,3,Eastern,Yes
+68,35,Female,Medium,10,Product B,8,4,Very satisfied,Dissatisfied,9,Rift Valley,Yes
+69,43,Male,High,10,Product B,6,6,Quick service,Average experience,7,Nairobi,Yes
+70,61,Female,High,7,Service A,3,5,Dissatisfied,Average experience,7,Western,Yes
+71,51,Male,Medium,10,Service A,9,8,Excellent service,Excellent service,4,Nairobi,No
+72,27,Male,High,5,Service A,2,1,Slow response,Not happy with the service,2,Nairobi,Yes
+73,53,Male,Low,3,Service A,8,1,Will recommend,Slow response,4,Eastern,Yes
+74,31,Female,Medium,7,Product B,10,6,Will recommend,Average experience,6,Rift Valley,No
+75,48,Female,High,2,Service B,3,10,Not happy with the service,Excellent service,3,Western,Yes
+76,65,Male,Medium,9,Product A,5,2,Quick service,Slow response,1,Central,Yes
+77,32,Female,Low,10,Product B,6,5,Average experience,Average experience,8,Central,No
+78,25,Male,Medium,10,Product A,10,1,Very satisfied,Needs improvement,5,Nairobi,Yes
+79,31,Male,Medium,1,Service B,6,7,Quick service,Average experience,5,Eastern,Yes
+80,40,Female,Medium,6,Service A,4,1,Not happy with the service,Needs improvement,4,Eastern,Yes
+81,57,Female,Medium,7,Service B,3,4,Dissatisfied,Dissatisfied,6,Central,No
+82,38,Male,Low,8,Product B,4,9,Not happy with the service,Will recommend,3,Western,Yes
+83,33,Female,Medium,10,Service A,1,1,Needs improvement,Slow response,9,Rift Valley,Yes
+84,62,Female,Medium,9,Product B,4,4,Dissatisfied,Slow response,5,Western,No
+85,35,Male,High,2,Service A,1,6,Needs improvement,Average experience,3,Rift Valley,Yes
+86,64,Male,Medium,10,Product A,1,6,Needs improvement,Quick service,1,Central,No
+87,41,Female,High,2,Product A,10,8,Very satisfied,Very satisfied,10,Rift Valley,No
+88,43,Male,Low,5,Product A,6,1,Average experience,Not happy with the service,6,Eastern,Yes
+89,42,Male,Low,5,Service B,5,7,Average experience,Quick service,2,Nairobi,No
+90,62,Female,Low,6,Product B,4,1,Slow response,Dissatisfied,3,Nairobi,No
+91,58,Male,Low,3,Service B,3,7,Dissatisfied,Average experience,1,Central,Yes
+92,46,Male,High,8,Product A,1,3,Dissatisfied,Dissatisfied,9,Eastern,No
+93,32,Female,Medium,1,Product B,6,8,Average experience,Excellent service,8,Western,No
+94,62,Female,Low,6,Product A,2,3,Dissatisfied,Needs improvement,2,Eastern,Yes
+95,18,Male,Medium,4,Service B,8,1,Will recommend,Not happy with the service,8,Nairobi,Yes
+96,42,Male,High,1,Service B,10,8,Excellent service,Excellent service,9,Nairobi,Yes
+97,24,Female,High,7,Service B,5,3,Average experience,Dissatisfied,1,Eastern,No
+98,26,Female,High,9,Product A,7,2,Average experience,Needs improvement,5,Eastern,Yes
+99,41,Female,Low,4,Product B,10,1,Will recommend,Dissatisfied,8,Nairobi,No
+100,18,Female,Medium,4,Product B,2,3,Not happy with the service,Dissatisfied,2,Western,No
+101,61,Male,Medium,6,Product A,8,2,Excellent service,Needs improvement,4,Central,No
+102,25,Female,Medium,3,Product B,2,2,Dissatisfied,Not happy with the service,7,Central,No
+103,41,Female,High,6,Product A,4,6,Slow response,Quick service,3,Eastern,No
+104,28,Male,Low,7,Product B,1,1,Slow response,Needs improvement,5,Central,No
+105,34,Female,High,10,Service A,5,2,Average experience,Dissatisfied,8,Nairobi,No
+106,25,Male,High,10,Service A,9,6,Excellent service,Average experience,10,Nairobi,Yes
+107,52,Female,Medium,3,Service B,1,3,Needs improvement,Needs improvement,3,Eastern,Yes
+108,52,Female,High,7,Service A,9,4,Excellent service,Not happy with the service,4,Eastern,No
+109,50,Female,Medium,3,Service A,8,1,Will recommend,Not happy with the service,9,Eastern,No
+110,22,Male,Low,2,Service A,6,8,Average experience,Very satisfied,7,Western,Yes
+111,59,Male,Medium,10,Product A,7,7,Quick service,Average experience,1,Central,No
+112,56,Female,Low,4,Service A,3,7,Not happy with the service,Average experience,4,Eastern,Yes
+113,58,Male,Medium,8,Service A,1,3,Not happy with the service,Slow response,4,Rift Valley,Yes
+114,45,Male,High,9,Service B,5,10,Average experience,Excellent service,9,Rift Valley,Yes
+115,24,Male,High,7,Service A,2,10,Dissatisfied,Very satisfied,6,Nairobi,No
+116,26,Male,Low,1,Service A,5,3,Average experience,Dissatisfied,9,Central,No
+117,25,Male,Low,3,Product B,8,2,Excellent service,Not happy with the service,6,Eastern,Yes
+118,29,Male,Low,9,Service B,9,1,Very satisfied,Needs improvement,6,Rift Valley,Yes
+119,51,Female,Medium,1,Service B,2,7,Not happy with the service,Average experience,5,Central,Yes
+120,50,Female,Medium,9,Service B,3,7,Dissatisfied,Quick service,5,Nairobi,Yes
+121,65,Male,Low,8,Service B,3,2,Not happy with the service,Needs improvement,2,Western,Yes
+122,40,Female,High,1,Service B,1,7,Slow response,Quick service,8,Central,No
+123,41,Female,Medium,6,Service B,8,8,Excellent service,Very satisfied,8,Central,Yes
+124,54,Female,Medium,5,Product A,6,1,Quick service,Slow response,1,Western,No
+125,52,Female,Medium,6,Service A,8,9,Will recommend,Will recommend,8,Central,Yes
+126,61,Male,Low,10,Service B,9,7,Will recommend,Quick service,5,Nairobi,No
+127,57,Female,Low,5,Service A,5,3,Average experience,Not happy with the service,2,Nairobi,No
+128,39,Female,Low,6,Service A,3,8,Dissatisfied,Excellent service,2,Western,No
+129,44,Male,Low,5,Product A,5,7,Average experience,Average experience,6,Eastern,No
+130,52,Male,Low,5,Service B,5,8,Average experience,Very satisfied,9,Rift Valley,No
+131,18,Female,High,4,Product B,5,6,Quick service,Average experience,1,Eastern,No
+132,52,Female,High,3,Product A,3,9,Slow response,Very satisfied,6,Central,Yes
+133,54,Female,Low,3,Product B,10,5,Excellent service,Average experience,9,Rift Valley,No
+134,64,Female,Medium,4,Service A,4,3,Slow response,Slow response,8,Western,Yes
+135,31,Female,Low,9,Service A,9,3,Very satisfied,Needs improvement,6,Western,No
+136,20,Female,High,2,Product A,10,1,Excellent service,Dissatisfied,3,Rift Valley,No
+137,18,Male,High,9,Product A,9,8,Very satisfied,Excellent service,8,Nairobi,Yes
+138,22,Female,Medium,1,Product B,2,2,Slow response,Not happy with the service,9,Rift Valley,No
+139,43,Female,High,1,Service B,8,3,Will recommend,Dissatisfied,1,Central,Yes
+140,31,Male,Low,5,Product B,8,8,Will recommend,Will recommend,9,Nairobi,Yes
+141,56,Male,Medium,6,Product A,7,8,Quick service,Will recommend,6,Western,Yes
+142,44,Male,Low,6,Product B,8,4,Very satisfied,Slow response,6,Rift Valley,Yes
+143,26,Male,Low,3,Product A,3,4,Dissatisfied,Dissatisfied,4,Eastern,No
+144,32,Female,Medium,7,Product B,6,5,Quick service,Average experience,1,Eastern,No
+145,32,Female,Low,9,Product A,1,6,Not happy with the service,Average experience,10,Central,Yes
+146,43,Female,High,10,Product A,7,5,Quick service,Average experience,8,Eastern,No
+147,59,Female,Low,8,Product A,1,7,Needs improvement,Quick service,2,Rift Valley,No
+148,30,Female,Medium,6,Service B,9,2,Will recommend,Slow response,1,Rift Valley,Yes
+149,49,Female,Medium,8,Product B,1,7,Dissatisfied,Quick service,2,Eastern,No
+150,56,Male,Medium,5,Product B,1,10,Not happy with the service,Very satisfied,1,Rift Valley,Yes
+151,49,Female,Low,8,Product B,7,7,Quick service,Average experience,1,Central,Yes
+152,21,Male,Medium,10,Product A,2,1,Dissatisfied,Slow response,9,Nairobi,No
+153,47,Male,Medium,4,Product B,5,7,Quick service,Average experience,1,Central,No
+154,54,Female,Low,10,Product B,8,5,Excellent service,Average experience,4,Central,No
+155,40,Male,High,8,Product A,8,3,Will recommend,Not happy with the service,10,Rift Valley,Yes
+156,56,Female,Low,10,Service A,3,3,Needs improvement,Not happy with the service,6,Nairobi,Yes
+157,62,Male,Medium,2,Product A,7,4,Average experience,Needs improvement,7,Rift Valley,No
+158,32,Female,Medium,5,Product B,3,2,Dissatisfied,Slow response,2,Western,No
+159,60,Male,Low,9,Product A,6,2,Average experience,Slow response,6,Rift Valley,No
+160,46,Female,High,4,Service A,6,1,Average experience,Not happy with the service,7,Rift Valley,No
+161,53,Female,Medium,6,Product A,3,5,Not happy with the service,Quick service,10,Rift Valley,Yes
+162,30,Female,Medium,1,Product B,7,4,Quick service,Slow response,10,Nairobi,No
+163,49,Female,Medium,9,Service A,3,10,Slow response,Will recommend,2,Rift Valley,Yes
+164,24,Female,Low,1,Service B,8,2,Excellent service,Dissatisfied,2,Nairobi,Yes
+165,39,Male,Medium,5,Product B,10,3,Will recommend,Slow response,10,Eastern,No
+166,45,Male,High,4,Service A,4,7,Not happy with the service,Quick service,7,Western,No
+167,19,Male,Medium,3,Service A,1,7,Dissatisfied,Quick service,1,Nairobi,No
+168,59,Female,Medium,6,Service B,4,4,Needs improvement,Needs improvement,8,Eastern,Yes
+169,62,Male,High,2,Product A,7,5,Average experience,Average experience,3,Nairobi,No
+170,23,Female,Medium,3,Product A,4,5,Needs improvement,Quick service,6,Nairobi,No
+171,45,Female,Low,5,Product B,6,6,Quick service,Quick service,9,Western,Yes
+172,45,Male,Low,9,Service B,9,9,Will recommend,Very satisfied,6,Central,No
+173,61,Male,Low,2,Product A,1,2,Not happy with the service,Slow response,9,Central,Yes
+174,61,Female,High,10,Service B,5,5,Quick service,Average experience,7,Nairobi,No
+175,37,Male,Medium,8,Product A,7,3,Average experience,Dissatisfied,9,Rift Valley,Yes
+176,47,Female,Low,2,Service A,1,4,Needs improvement,Dissatisfied,2,Eastern,No
+177,28,Female,High,5,Product A,4,10,Not happy with the service,Excellent service,8,Rift Valley,No
+178,45,Female,Medium,7,Service B,6,6,Average experience,Quick service,8,Rift Valley,Yes
+179,42,Female,High,8,Service A,2,8,Needs improvement,Very satisfied,2,Nairobi,Yes
+180,56,Female,Low,1,Service A,10,1,Will recommend,Slow response,4,Nairobi,No
+181,50,Male,Low,6,Service A,5,10,Quick service,Excellent service,7,Nairobi,Yes
+182,18,Male,Low,1,Service B,10,8,Will recommend,Very satisfied,4,Nairobi,Yes
+183,44,Female,High,2,Product B,1,7,Slow response,Average experience,4,Central,Yes
+184,30,Female,High,1,Product B,6,1,Quick service,Needs improvement,6,Nairobi,Yes
+185,58,Male,Low,5,Product B,6,2,Average experience,Not happy with the service,10,Central,No
+186,20,Male,High,10,Service B,4,3,Needs improvement,Slow response,6,Central,No
+187,56,Female,Low,9,Service A,8,1,Will recommend,Slow response,10,Nairobi,Yes
+188,23,Male,Low,6,Product B,4,9,Dissatisfied,Excellent service,3,Western,Yes
+189,25,Female,Medium,1,Service B,8,8,Will recommend,Will recommend,9,Eastern,Yes
+190,44,Male,High,1,Product B,8,2,Excellent service,Dissatisfied,10,Rift Valley,Yes
+191,26,Female,Low,2,Product A,5,9,Average experience,Very satisfied,2,Central,No
+192,54,Male,Low,9,Product B,4,7,Not happy with the service,Average experience,6,Eastern,No
+193,50,Female,High,3,Product B,2,9,Slow response,Excellent service,7,Western,Yes
+194,59,Male,Medium,1,Service A,3,6,Not happy with the service,Quick service,9,Rift Valley,Yes
+195,61,Male,Medium,5,Service B,3,6,Not happy with the service,Average experience,3,Rift Valley,Yes
+196,41,Female,Low,7,Service A,4,4,Slow response,Slow response,10,Central,No
+197,32,Male,High,6,Service A,4,10,Dissatisfied,Very satisfied,3,Nairobi,Yes
+198,49,Female,Medium,1,Service A,10,10,Very satisfied,Will recommend,7,Western,No
+199,49,Male,High,5,Service A,5,2,Quick service,Not happy with the service,4,Central,Yes
+200,41,Female,High,5,Service A,4,7,Dissatisfied,Quick service,8,Western,No
