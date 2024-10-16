@@ -34,6 +34,7 @@ The first step in the process was collecting customer satisfaction data at two p
   -	After the service improvements: The same customers were surveyed again to capture any changes in satisfaction levels post-improvement.
     
 The dataset includes additional attributes like age, gender, income level, frequency of purchase, and whether the customer is part of a loyalty program.
+
 **N/B**: *For my case, I generated the [data]() using [Python]() for practice. I ensured it has no inconsistencies hence skipping the data cleaning step.*
 
 ### 2. Descriptive Statistics:
