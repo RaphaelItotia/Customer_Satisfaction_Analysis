@@ -43,14 +43,14 @@ Next, we calculated some descriptive statistics to better understand the data:
   -	Mean satisfaction ratings after the improvements.
   -	Standard deviation to understand the variability of the satisfaction scores.
     
-![descriptive]()
+![descriptive](Images/descriptive_stats.PNG)
 
 By looking at these numbers, we can get an initial idea of whether the improvements had an impact. However, this alone isn't enough to draw a conclusion.
 
 ### 3. Visualization of Satisfaction Scores:
 To visualize the distribution of satisfaction ratings before and after the improvements, we used boxplots to compare the two sets of data.(before and after)
 
-![boxplot]()
+![boxplot](Images/boxplot.PNG)
 
 This helps us visually assess whether the overall distribution of satisfaction ratings shifted in a positive direction after the improvements.
 
@@ -68,7 +68,7 @@ We conducted a paired t-test because the same customers are surveyed both before
 ### 5. Conducting the Paired T-Test:
 We calculated the difference between the satisfaction ratings before and after for each customer. Then, computed the mean of the differences and applied the paired t-test formula.
 
-![paired]()
+![paired](Images/paired.PNG)
 
 ### 6. Interpretation:
    - t-statistic: - 0.08758231902891955
