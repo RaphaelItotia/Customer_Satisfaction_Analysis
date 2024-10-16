@@ -81,7 +81,8 @@ Since the p-value is greater than 0.05, we fail to reject the null hypothesis an
 ----------
 ### 7. Conclusion:
 The analysis indicates that the service improvements made by Murima Superstores did not lead to a statistically significant change in customer satisfaction. Since the p-value is high, we cannot conclude that the improvements had a meaningful impact on customer experiences.
-Actionable Recommendations:
+
+### 8. Actionable Recommendations:
 -	Monitor Key Performance Indicators (KPIs): Continuously monitor key metrics related to customer satisfaction. Establish regular check-ins to gauge the effectiveness of any ongoing improvements.
 -	Enhance Customer Engagement: Foster better communication with customers. Regularly seek feedback through surveys or social media, and ensure that customers know their input is valued and will lead to improvements. Consider implementing a loyalty program to stimulate regular feedback.
 -	Test Additional Improvements: Experiment with different types of service improvements, such as faster checkout systems, increased product availability, or better store layout. Conduct small-scale pilot programs before implementing widespread changes and measure their impact on customer satisfaction.
