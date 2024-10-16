@@ -35,7 +35,7 @@ The first step in the process was collecting customer satisfaction data at two p
     
 The dataset includes additional attributes like age, gender, income level, frequency of purchase, and whether the customer is part of a loyalty program.
 
-**N/B**: *For my case, I generated the [data]() using [Python]() for practice. I ensured it has no inconsistencies hence skipping the data cleaning step.*
+**N/B**: *For my case, I generated the [data](Assets/Murima_SuperStores.csv) using [Python](Assets/Generate_data.ipynb) for practice. I ensured it has no inconsistencies hence skipping the data cleaning step.*
 
 ### 2. Descriptive Statistics:
 Next, we calculated some descriptive statistics to better understand the data:
