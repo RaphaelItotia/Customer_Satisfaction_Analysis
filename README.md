@@ -57,11 +57,11 @@ This helps us visually assess whether the overall distribution of satisfaction r
 Defining the Hypotheses:
   -	Null Hypothesis (H0): There is no significant difference in customer satisfaction before and after the service improvements.
     
-$$H_{0}:μ_{before} = μ_{after}
+H_0:\mu_{\text{before}} = \mu_{\text{after}}
 
   -	Alternative Hypothesis (H1): There is a significant increase in customer satisfaction after the service improvements.
     
-$$H_{1}:μ_{before} < μ_{after}
+H_1:\mu_{\text{before}} < \mu_{\text{after}}
 
 We conducted a paired t-test because the same customers are surveyed both before and after the improvements, making the data dependent.
 ### 5. Conducting the Paired T-Test:
