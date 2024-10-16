@@ -55,7 +55,7 @@ This helps us visually assess whether the overall distribution of satisfaction r
 
 ### 4. Hypothesis Testing:
 Defining the Hypotheses:
-  -	Null Hypothesis ($ H_0 $): There is no significant difference in customer satisfaction before and after the service improvements.
+  -	Null Hypothesis ($H_0$): There is no significant difference in customer satisfaction before and after the service improvements.
     
 $$ H_0:\mu_{\text{before}} = \mu_{\text{after}} $$
 
