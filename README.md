@@ -6,6 +6,7 @@ In the fast-paced world of retail and service industries, customer satisfaction 
 The service improvements involved:
   1.	Introducing new staff training programs to improve employee interactions with customers.
   2.	Deploying upgraded IT systems to reduce checkout times.
+     
 After these changes, the company decided to measure the impact on customer satisfaction. To ensure they were making data-driven decisions, they collected customer satisfaction data both before and after these improvements. The goal was to determine whether the service upgrades significantly improved customer satisfaction levels.
 
 ## Objective:
